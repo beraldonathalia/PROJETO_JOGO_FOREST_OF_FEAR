@@ -4,6 +4,8 @@ personagem_1 = 'Princesa Daiana'
 personagem_2 = 'Cavaleiro Brulon'
 personagem_3 = 'Feiteceiro Tozart'
 
+a='a'
+
 # ------------------------ PERSONAGENS SECUNDÁRIOS - PRINCESA DAIANA ---------------------------
 personagem_Unicornio = 'Unicórnio'
 personagem_Fada = 'Fada'
